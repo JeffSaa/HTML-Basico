@@ -5,8 +5,18 @@ li{
 	color: yellow;
 }
 .color_purple{
-	color: purple;
+	color: #512da8;
 }
 .tamano{
 	font-size: 5em;
+}
+.todo_el_alto{
+	height: 100%;
+}
+html, body{
+	height: 100%;
+	width: 100%;
+}
+div.valign-wrapper h5{
+	width: 100%;
 }
