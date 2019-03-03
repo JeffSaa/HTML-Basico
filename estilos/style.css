@@ -1,3 +1,12 @@
 li{
 	color: blue;
 }
+#saludo{
+	color: yellow;
+}
+.color_purple{
+	color: purple;
+}
+.tamano{
+	font-size: 5em;
+}
